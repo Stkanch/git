@@ -1,2 +1,2 @@
-marka = 'Volvo'
+marka = 'Mazda'
 print('Марка машины ' + marka)
