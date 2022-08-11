@@ -1,3 +1,3 @@
-# Git course an GitHub
+# Git course and GitHub
 
 Git course
