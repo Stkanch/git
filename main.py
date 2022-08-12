@@ -11,4 +11,4 @@ print(summa)
 print('Git')
 
 import this
-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
+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
